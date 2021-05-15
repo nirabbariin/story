@@ -1,0 +1,4 @@
+https://freefrontend.com/css-cards/  ====== css cards;
+https://imageslidermaker.com/v2 ====css slider maker;
+https://www.cssportal.com/css-ribbon-generator/ ========= other genarators
+https://bootswatch.com/
